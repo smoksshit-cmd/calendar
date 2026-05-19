@@ -1,0 +1,11 @@
+{
+    "display_name": "Game Collection",
+    "loading_order": 200,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "you",
+    "version": "1.0.0",
+    "homePage": ""
+}
